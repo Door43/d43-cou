@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cou:home|Door43 (cou)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cou|d43-cou repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cou/archive/master.zip|d43-cou.zip]]
+
+**Recent Changes**
+{{changes>ns = cou}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cou|Ethnologue data]]
+
